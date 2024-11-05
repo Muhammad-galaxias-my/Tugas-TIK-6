@@ -1,0 +1,169 @@
+*{
+    font-family: sans-serif;
+    color: white;
+}
+
+p{
+    text-decoration: underline;
+}
+
+body{
+    background-color: black;
+    border: solid;
+    border-radius: 20px;
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium';
+    text-decoration: underline;
+}
+
+.ekonomi{
+    font-weight: bold;
+    background-color: rgb(58, 65, 65);
+    width: 360px;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+div .date1{
+    font-size: smaller;
+    color: darkgrey;
+}
+
+div.box1{
+    background-color: rgb(33, 32, 32);
+    border-radius: 25px;
+    padding: 10px 50px 15px; 
+    margin: 20px;
+}
+
+div.box2{
+    background-color: rgb(33, 32, 32);
+    border-radius: 25px;
+    padding: 10px 50px 15px; 
+    margin: 20px;
+}
+
+div.box3{
+    background-color: rgb(33, 32, 32);
+    border-radius: 25px;
+    padding: 10px 50px 15px; 
+    margin: 20px;
+}
+
+div.box4{
+    background-color: rgb(33, 32, 32);
+    border-radius: 25px;
+    padding: 10px 50px 15px; 
+    margin: 20px;
+}
+
+div.box5{
+    background-color: rgb(33, 32, 32);
+    border-radius: 25px;
+    padding: 10px 50px 15px; 
+    margin: 20px;
+}
+
+div.box6{
+    background-color: rgb(33, 32, 32);
+    border-radius: 25px;
+    padding: 10px 50px 15px; 
+    margin: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+.kolom1{
+    background-color: rgb(28, 25, 25);
+    padding: 1px 0 20px 20px;
+    border-radius: 20px;
+  margin: 0 10px;
+  border: solid 4px rgb(108, 103, 93);
+}
+
+.kolom2{
+    
+        background-color: rgb(28, 25, 25);
+        padding: 1px 0 20px 20px;
+        border-radius: 20px;
+     margin: 0 10px;
+     border: solid 4px rgb(108, 103, 93);
+}
+
+.kolom3{
+    background-color: rgb(28, 25, 25);
+    padding: 1px 0 20px 20px;
+    border-radius: 20px;
+    margin: 20xp;
+    margin: 0 10px;
+    border: solid 4px rgb(108, 103, 93);
+}
+
+.no{
+    background-color: aqua;
+}
+
+.hari{
+    background-color: rgb(121, 191, 63);
+}
+
+.kegiatan{
+    background-color: bisque;
+}
+
+.satu{
+    background-color: aquamarine;
+}
+
+.dua{
+    background-color: rgb(241, 9, 191);
+}
+
+.sabtu{
+    background-color: blue;
+}
+
+.minggu{
+    background-color: blueviolet;
+}
+
+.kegiatan{
+    background-color: brown;
+}
+
+.mancing{
+    background-color: red;
+}
+
+.belanja{
+    background-color: chartreuse;
+}
+
+div p{
+    font-style: italic;
+}
+
+.cite{
+    background-color:  rgb(28, 25, 25);;
+    padding: 1px 0 20px 20px;
+    border-radius: 20px;
+ margin: 0 10px;
+ border: solid 4px rgb(108, 103, 93);
+}
+
+.kutipan{
+    font-style: normal;
+    text-align: justify;
+    text-decoration: none;
+    width: 250px;
+    height: 200px;
+    margin: 0 auto;
+    overflow: scroll;
+    border: solid 2px;
+    padding: 10px;
+}
